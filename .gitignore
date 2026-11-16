@@ -3,3 +3,4 @@ transcripts.tar.gz
 muse-usage.jsonl
 *.log
 .DS_Store
+out2/
