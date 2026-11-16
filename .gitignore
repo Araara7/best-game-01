@@ -1,0 +1,5 @@
+out/
+transcripts.tar.gz
+muse-usage.jsonl
+*.log
+.DS_Store
